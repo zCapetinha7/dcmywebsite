@@ -16,7 +16,6 @@ export default function Home() {
     <div>
       <Hero />
       <Servers />
-      <Features />
       {/*<Partners /> */}
       <InviteBot />
     </div>
